@@ -2,12 +2,9 @@ Here is some simple text.
 
 Let's see how we can merge this simple text.
 
-With some more complex examples such as code:
+With some more difficult examples such as code:
 
-
-Adding some new text
-
-some changes here
+Adding some new text and some changes here
 
 function name() {
     for(let i = 0; i<10;i++) {
