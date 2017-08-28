@@ -4,7 +4,10 @@ Let's see how we can merge this simple text.
 
 With some more complex examples such as code:
 
+
 Adding some new text
+
+some changes here
 
 function name() {
     for(let i = 0; i<10;i++) {
